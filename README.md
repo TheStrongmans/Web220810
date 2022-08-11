@@ -2,7 +2,7 @@
 ----------
 在后端使用 Spring Boot、Spring Security、Spring Data JPA 和前端使用 Angular 创建的简单博客应用程序
 
-前端代码：
+前端代码：[https://github.com/TheStrongmans/Web220810q](https://github.com/TheStrongmans/Web220810q)
 
 在Youtbe观看教学所写：[https://www.youtube.com/playlist?list=PLSVW22jAG8pCwwM3tjSMfwBKYIS6_fP-F](https://www.youtube.com/playlist?list=PLSVW22jAG8pCwwM3tjSMfwBKYIS6_fP-F)
 
