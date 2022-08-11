@@ -9,3 +9,5 @@
 开发环境jdk8，mysql8，IDEA
 
 使用IDEA打开项目后更改 `application.properties` 文件中的mysql配置即可运行项目
+
+![1](https://github.com/TheStrongmans/imgs/blob/master/we220810imgs/%E8%BF%90%E8%A1%8C_%E5%90%8E%E7%AB%AF.png)
