@@ -13,9 +13,8 @@
 ![1](https://github.com/TheStrongmans/imgs/blob/master/we220810imgs/%E8%BF%90%E8%A1%8C_%E5%90%8E%E7%AB%AF.png)
   
   
-  ## X项目运行效果
- 
-  
+## 项目运行效果  
+
 注册  
 ![2](https://github.com/TheStrongmans/imgs/blob/master/we220810imgs/%E6%B3%A8%E5%86%8C%E9%A1%B5.png)  
 ------  
