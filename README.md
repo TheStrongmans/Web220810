@@ -1,6 +1,6 @@
-#Web220810_博客
+# Web220810_博客
 ----------
-在后端使用 Spring Boot、Spring Security、Spring Data JPA 和前端使用 Angular 创建的简单博客应用程序
+在 后 端 使用 Spring Boot、Spring Security、Spring Data JPA 和前端使用 Angular 创建的简单博客应用程序
 
 前端代码：[https://github.com/TheStrongmans/Web220810q](https://github.com/TheStrongmans/Web220810q)
 
